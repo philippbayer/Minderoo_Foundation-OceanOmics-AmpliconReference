@@ -2,3 +2,5 @@
 *tsv filter=lfs diff=lfs merge=lfs -text
 *tar.gz filter=lfs diff=lfs merge=lfs -text
 *sqlite3 filter=lfs diff=lfs merge=lfs -text
+*fasta filter=lfs diff=lfs merge=lfs -text
+*btd filter=lfs diff=lfs merge=lfs -text
